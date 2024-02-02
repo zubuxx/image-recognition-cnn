@@ -17,10 +17,12 @@ To get started with this project, follow these steps:
 3. Extract the dataset into the root of the cloned repository.
 4. Open the Jupyter Notebook and run the cells to see the analysis and results.
 
-## Contact
 
-For any questions or concerns about the calculator, please contact me by email: krownicki1@gmail.com
 
 ## Project Structure
 
 - **Image Classification Notebook**: Contains the exploratory data analysis, model creation, parameter tuning, image augmentation, and performance evaluation.
+
+## Contact
+
+For any questions or concerns about the calculator, please contact me by email: krownicki1@gmail.com
